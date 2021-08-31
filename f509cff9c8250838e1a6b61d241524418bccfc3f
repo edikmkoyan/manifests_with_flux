@@ -1,0 +1,1 @@
+{"jobID":"e69d28ac-0cd1-e070-443c-2209304c7b8c","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"edik:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
